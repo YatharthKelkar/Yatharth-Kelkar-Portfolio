@@ -1,12 +1,17 @@
-Yatharth Kelkar - Portfolio 🌐🚀
+🌟 Yatharth Kelkar - Portfolio 🚀
 
-This is my personal portfolio website showcasing my skills, projects, and passion for technology. The site features:
+This is my personal portfolio website, designed to showcase my skills, projects, and passion for technology. The website includes:
 
- A stylish and modern design with dynamic effects
- Information about my expertise in HTML, CSS, Python, and Linux
- A section for tech trend analysis
- Links to my YouTube channel and contact details
+✅ A modern, creative design with stylish animations and effects
 
-Check it out and feel free to explore!
+✅ About Me section highlighting my expertise in HTML, CSS, Python, JavaScript (learning), and Linux (Ubuntu, Arch, Mint, Fedora)
 
-📧 Contact: kelkaryatharth@gmail.com
+✅ Tech Analysis section where I share insights on the latest tech trends
+
+✅ Links to my YouTube channel and contact details for collaboration
+
+Explore my portfolio and get in touch!
+
+📌 Tech Stack: HTML, CSS
+
+Let me know if you need any changes! 🚀
